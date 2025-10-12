@@ -3,3 +3,57 @@
 <title>Pocky - Website</title>
 <h1>Pocky</h1>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+  }
+
+  :root {
+    --bg-color: #0a0a0a;
+    --fg-color: #ffffff;
+    --btn-bg: #0000ff;
+    --btn-fg: #ffffff;
+    --btn-hover-bg: #00ffff;
+    --btn-active-bg: #b0ffff;
+    --text-hover-color: #888888;
+    --bg-hover: #050505;
+    --btn-radius: 12px; /* rounded corners */
+  }
+
+  body, html {
+    background-color: var(--bg-color);
+    color: var(--fg-color);
+  }
+
+  button {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--btn-bg);
+    color: var(--btn-fg);
+    border: none;
+    cursor: pointer;
+    padding: 0.5em 1em;
+    border-radius: var(--btn-radius);
+    transition: all 0.25s ease;
+  }
+
+  button:hover {
+    background-color: var(--btn-hover-bg);
+    box-shadow: 0 0 10px #000000;
+  }
+
+  button:active {
+    background-color: var(--btn-active-bg);
+  }
+
+  div:hover, p:hover, span:hover {
+    color: var(--text-hover-color);
+  }
+
+  div:hover, p:hover, span:hover, body:hover {
+    background-color: var(--bg-hover);
+  }
+</style>
