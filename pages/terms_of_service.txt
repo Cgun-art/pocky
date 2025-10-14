@@ -1,1 +1,13 @@
-Copyright 2025 © Pocky. Licensed under the BSD 3-C
+// Copyright 2025 © Pocky. Licensed under the BSD 3-Clause license.
+
+Posts
+
+Posts let you read & learn stuff. Do not share posts with somebody without encouraging visiting it.
+DO NOT MEASURE: All posts have text, so read the posts with scrolling.
+PLEASE MEASURE: Read the posts with scrolling.
+
+Source
+
+Source is from GitHub. Source can be forked & modified. which is dangerous.
+DO NOT MEASURE: Forking, which increases the risk of duplicate posts.
+PLEASE MEASURE: download files from the source code at your risk, in a trusted device.
