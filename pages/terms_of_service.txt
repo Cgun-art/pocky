@@ -11,3 +11,9 @@ Source
 Source is from GitHub. Source can be forked & modified. which is dangerous.
 DO NOT MEASURE: Forking, which increases the risk of duplicate posts.
 PLEASE MEASURE: download files from the source code at your risk, in a trusted device.
+
+Games
+
+All games are from 1games, the canvas might display mixed interfaces.
+DO NOT MEASURE: Game copying, which makes it harder to know if it's stolen from pocky or not.
+PLEASE MEASURE: disable allow fullscreen in the iframe embed to avoid large canvas or slow loading, and also confusion, which i mentioned earlier.
