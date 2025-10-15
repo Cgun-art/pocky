@@ -1,1 +1,4 @@
- 
+<!DOCTYPE moai>
+<shape="square" />
+<fetch.color="shape.fetch="square"" color.inserted?="yes" color="hsb="33, preset.saturated, preset.saturated" />
+<run="all" />
