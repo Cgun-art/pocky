@@ -1,0 +1,2 @@
+_DMARC.pocky.org
+v=DMARC1; p=none; rua=mailto:8a9ae336@mxtoolbox.dmarc-report.com; ruf=mailto:8a9ae336@forensics.dmarc-report.com; fo=1
